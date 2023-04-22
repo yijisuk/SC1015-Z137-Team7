@@ -1,32 +1,31 @@
 # SC1015 - Chess Game Analysis
 
-## About Our Project
+## About The Project
 
 This is the mini project for SC1015 (Intro to Data Science and AI) which analyses 6.2 million chess games played on Lichess from [Chess Games](https://www.kaggle.com/datasets/arevel/chess-games). For the entire walkthrough of the project, please view the notebooks/readmes in this order:
 
-[1. Data cleaning] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/1-data-cleaning.ipynb)
-[2. Visualisation] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/2-visualization-eda.ipynb)
-[3. Feature extraction] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/3-feature-extraction.ipynb)
-[4. Data processing] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/4-encoding-normalization.ipynb)
-[5. Logistic Regression] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/5-logistic-regression.ipynb)
-[6. Random Forests] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/6-random-forests.ipynb)
-[7. Gradient Boosting] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/7-gradient-boosting.ipynb)
+1. [Data cleaning](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/1-data-cleaning.ipynb)
+2. [Visualisation](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/2-visualization-eda.ipynb)
+3. [Feature extraction](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/3-feature-extraction.ipynb)
+4. [Data processing](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/4-encoding-normalization.ipynb)
+5. [Logistic Regression](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/5-logistic-regression.ipynb)
+6. [Random Forests](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/6-random-forests.ipynb)
+7. [Gradient Boosting](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/7-gradient-boosting.ipynb)
 
 ## About the Datasets
-Due to dataset file capacity, we have uploaded our dataset separately on Google Drive.
-<br>Access the dataset [here] (https://drive.google.com/drive/folders/1q_pA9sS2QZCJ__U6mw-oV9Hr_PmSsgCo?usp=share_link).
+Due to dataset file capacity, we have uploaded our dataset separately on Google Drive. Access the dataset [here](https://drive.google.com/drive/folders/1q_pA9sS2QZCJ__U6mw-oV9Hr_PmSsgCo?usp=share_link).
 
 ## Problem Definition
+**Primary Objective**: Utilizing the initial and pre-mid-game stages of a given game, can we accurately predict the game's outcome through classification techniques?
 
-- Given the initial and mid-game states of the game, can we predict the outcome of the game?
+**Task**: Classify game outcomes into win/loss categories and identify the determining factors contributing to the termination of games.
 
 ## Models Used
 
 1. Logistic Regression
-2. Random Forest Classifier
+2. Random Forests Classifier
 3. Decision Trees
-4. AdaBoost
-5. XGBoost
+4. XGBoost Classifier
 
 ## Main Takeaways from our EDA
 
@@ -42,9 +41,9 @@ Due to dataset file capacity, we have uploaded our dataset separately on Google 
 4. 
 
 ## Contributors
-- @
-- @
-- @lyroxide - Data processing, Gradient Boosting
+- @yijisuk - Feature Engineering, EDA, Random Forests & Decision Trees
+- @Moon0002 - Data processing, Logistic Regression
+- @lyroxide - Data cleaning & processing, XGBoost Gradient Boosting
 
 ## References
 
