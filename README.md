@@ -43,7 +43,7 @@ Due to dataset file capacity, we have uploaded our dataset separately on Google 
 ## Contributors
 - @yijisuk - Feature Engineering, EDA, Random Forests & Decision Trees
 - @Moon0002 - Data processing, Logistic Regression
-- @lyroxide - Data cleaning & processing, XGBoost Gradient Boosting
+- @Lyroxide - Data cleaning & processing, XGBoost Gradient Boosting
 
 ## References
 
