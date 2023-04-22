@@ -1,31 +1,20 @@
-# Title
+# SC1015 - Chess Game Analysis
 
 ## About Our Project
 
 This is the mini project for SC1015 (Intro to Data Science and AI) which analyses 6.2 million chess games played on Lichess from [Chess Games](https://www.kaggle.com/datasets/arevel/chess-games). For the entire walkthrough of the project, please view the notebooks/readmes in this order:
 
-1. Data cleaning
-2. Visualisation
-3. Feature extraction
-4. Data processing
-5. Logistic Regression
-6. Tree-Based Apparoaches
-7. Gradient Boosting
+[1. Data cleaning] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/1-data-cleaning.ipynb)
+[2. Visualisation] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/2-visualization-eda.ipynb)
+[3. Feature extraction] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/3-feature-extraction.ipynb)
+[4. Data processing] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/4-encoding-normalization.ipynb)
+[5. Logistic Regression] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/5-logistic-regression.ipynb)
+[6. Random Forests] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/6-random-forests.ipynb)
+[7. Gradient Boosting] (https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/7-gradient-boosting.ipynb)
 
-## Project Folder Structure
-(temp)
-```terminal
-.
-├── datasets                          # csv files
-├── data_cleaning                     # folder for data cleaning
-├── data_processing                   # folder for data processing
-├── EDA                               # folder for EDA
-├── feature_extract                   # folder for feature extraction
-├── gradient_boosting                 # folder for gradient boosting
-├── presentation                      # presentation ppt
-├── logistic regression.ipynb         # notebook for logistic regression
-└── README.md
-```
+## About the Datasets
+Due to dataset file capacity, we have uploaded our dataset separately on Google Drive.
+<br>Access the dataset [here] (https://drive.google.com/drive/folders/1q_pA9sS2QZCJ__U6mw-oV9Hr_PmSsgCo?usp=share_link).
 
 ## Problem Definition
 
