@@ -31,7 +31,7 @@ Due to dataset file capacity, we have uploaded our dataset separately on Google 
 ## Main Takeaways from our EDA
 
 1. Estimated Scores & Winning Probabilities and win/loss results, derived from the initial Elo ratings of both White and Black players, do not guarantee a direct correlation with the ultimate outcome of the match. A player with a considerably higher projected score or probability of winning may not necessarily secure a win. This highlights the inherent probabilistic nature of chess, where numerous factors influence the game's progression. Consequently, an evaluation of the match outcome should not rely solely on the initial data but also incorporate each player's performance throughout the game.
-2. About 800K of the games are evaluated from Stockfish.
+2. About 800K of the games are evaluated from Stockfish; this will be used for the main classification tasks.
 3. `A00`, `A40`, `B00`, `B01`, `B20`, `C00`, `C20`, `C41`, `D00` are the most frequently used openings based on crosstab normalisation of greater than 0.1.
 
 ## Conclusion
@@ -43,9 +43,9 @@ Due to dataset file capacity, we have uploaded our dataset separately on Google 
 3. **Inherent Probabilistic Nature of Chess**: Chess is a highly probabilistic game, with a myriad of potential outcomes that can be influenced by unexpected moves, such as last-minute blunders or strategic surprises. Despite this inherent unpredictability, our analysis shows that it is still possible to predict Win/Loss outcomes with an accuracy of 0.81. This achievement highlights the potential for machine learning models to effectively analyze and predict complex game scenarios, even in the face of uncertainty and the vast possibility space of chess games.
 
 ## Contributors
-- @yijisuk (SUK Yiji) - Data cleaning & processing, Feature Engineering, EDA, Random Forests & Decision Trees
-- @Moon0002 (MOON Seongwon) - Data processing, Logistic Regression, Presentation Slides
-- @Lyroxide (OH Jing Hong, Daryl) - Data cleaning & processing, XGBoost Gradient Boosting, Presentation Slides & Recording
+- [@yijisuk](https://github.com/yijisuk) (SUK Yiji) - Data cleaning & processing, Feature Engineering, EDA, Random Forests & Decision Trees
+- [@Moon0002](https://github.com/Moon0002) (MOON Seongwon) - Data processing, Logistic Regression, Presentation Slides
+- [@Lyroxide](https://github.com/Lyroxide) (OH Jing Hong, Daryl) - Data cleaning & processing, XGBoost Gradient Boosting, Presentation Slides & Recording
 
 ## References
 
