@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This is the mini project for SC1015 (Intro to Data Science and AI) which analyses 6.2 million chess games played on Lichess from [Chess Games](https://www.kaggle.com/datasets/arevel/chess-games). For the entire walkthrough of the project, please view the notebooks/readmes in this order:
+This is the mini project for SC1015 (Intro to Data Science and AI) which analyses 6.2 million chess games played on Lichess from [Chess Games (Kaggle)](https://www.kaggle.com/datasets/arevel/chess-games). For the entire walkthrough of the project, please view the notebooks in this order:
 
 1. [Data cleaning](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/1-data-cleaning.ipynb)
 2. [Visualisation](https://github.com/yijisuk/SC1015-Z137-Team7/blob/main/2-visualization-eda.ipynb)
@@ -54,4 +54,4 @@ Due to dataset file capacity, we have uploaded our dataset separately on Google 
 - https://towardsdatascience.com/xgboost-regression-training-on-cpu-and-gpu-in-python-5a8187a43395
 - https://en.wikipedia.org/wiki/Elo_rating_system
 - https://www.chessprogramming.org/Pawn_Advantage,_Win_Percentage,_and_Elo
-- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+- https://www.chess.com/terms/chess-middlegame
