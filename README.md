@@ -43,9 +43,9 @@ Due to dataset file capacity, we have uploaded our dataset separately on Google 
 3. **Inherent Probabilistic Nature of Chess**: Chess is a highly probabilistic game, with a myriad of potential outcomes that can be influenced by unexpected moves, such as last-minute blunders or strategic surprises. Despite this inherent unpredictability, our analysis shows that it is still possible to predict Win/Loss outcomes with an accuracy of 0.81. This achievement highlights the potential for machine learning models to effectively analyze and predict complex game scenarios, even in the face of uncertainty and the vast possibility space of chess games.
 
 ## Contributors
-- @yijisuk (SUK Yiji) - Data cleaning & processing, Feature Engineering, EDA, Random Forests & Decision Trees
-- @Moon0002 (MOON Seongwon) - Data processing, Logistic Regression, Presentation Slides
-- @Lyroxide (OH Jing Hong, Daryl) - Data cleaning & processing, XGBoost Gradient Boosting, Presentation Slides & Recording
+- [@yijisuk](https://github.com/yijisuk) (SUK Yiji) - Data cleaning & processing, Feature Engineering, EDA, Random Forests & Decision Trees
+- [@Moon0002](https://github.com/Moon0002) (MOON Seongwon) - Data processing, Logistic Regression, Presentation Slides
+- [@Lyroxide](https://github.com/Lyroxide) (OH Jing Hong, Daryl) - Data cleaning & processing, XGBoost Gradient Boosting, Presentation Slides & Recording
 
 ## References
 
