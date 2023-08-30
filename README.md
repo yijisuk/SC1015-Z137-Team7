@@ -44,7 +44,7 @@ Due to dataset file capacity, we have uploaded our dataset separately on Google 
 
 ## Contributors
 - [@yijisuk](https://github.com/yijisuk) (SUK Yiji) - Data cleaning & processing, Feature Engineering, EDA, Random Forests & Decision Trees, XGBoost
-- [@Moon0002](https://github.com/Moon0002) (MOON Seongwon) - Data processing, Logistic Regression, Presentation Slides
+- [@Moon0002](https://github.com/Moon0002) (MOON Seongwon) - Data processing, Logistic Regression, Presentation Slides.
 - [@Lyroxide](https://github.com/Lyroxide) (OH Jing Hong, Daryl) - Data cleaning & processing, AdaBoost & XGBoost, Presentation Slides & Recording
 
 ## References
